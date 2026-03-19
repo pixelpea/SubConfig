@@ -10,6 +10,7 @@
 ;增强国外GFW：支持
 
 ;设置规则标志位
+ruleset=REJECT,https://gh-proxy.org/gist.githubusercontent.com/llemeister/48fc2004484bad6a6fd4aca5276c6097/raw/anti_fraud_config.yaml
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
@@ -48,7 +49,7 @@ ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ;ruleset=🎯 全球直连,[]GEOIP,LAN
 ruleset=🎯 全球直连,[]GEOIP,CN
 ruleset=🐟 漏网之鱼,[]FINAL
-ruleset=REJECT,https://gh-proxy.org/gist.githubusercontent.com/llemeister/48fc2004484bad6a6fd4aca5276c6097/raw/anti_fraud_config.yaml
+
 ;设置规则标志位
 
 ;设置分组标志位
